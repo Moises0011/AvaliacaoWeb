@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  margin: 150px;
+  font-size: 20px;
+  align-items: center;
+}
+
+.btn {
+  border-color: red;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
